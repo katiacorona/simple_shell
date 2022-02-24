@@ -36,3 +36,7 @@ hsh main.c shell.c test_ls_2
 hsh main.c shell.c test_ls_2
 $
 ```
+
+## Authors
+
+Katia Corona Tarango | [GitHub](https://github.com/katiacorona){:target="_blank"} | [Twitter](https://twitter.com/KatiaCorona11){:target="_blank"}
